@@ -1,16 +1,27 @@
 baris 1-3: Sistem menyapa pengguna
+
 baris 5-7: Input nama tim 1 dan 2
+
 baris 8-11: Input skor tim 1 dan tim 2
+
 baris 13-14: Input tanggal pertandingan
+
 baris 17: List untuk menyimpan semua data pertandingan yang diinput
+
 baris 18: Tuple untuk data pertandingan yang diinput
+
 baris 19: Untuk menambahkan tuple data pertandingan ke dalam list 
+
 baris 20: Garis batas
+
 baris 21-22: Tampilan hasil pertandingan
+
 baris 23-28: If yaitu Jika skor tim 1 lebih dari tim 2 maka tim 1 menang
              elif yaitu jika skor tim 2 lebih dari tim 1 maka tim 2 menang
              else yaitu jika skor sama atau seri
+             
 baris 29: Garis batas
+
 
 Flowchart:
 <img width="121" height="891" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/e3f8eab6-1643-42be-afd7-7b917112f1cf" />
