@@ -1,0 +1,29 @@
+print("Halo Selamat Datang 🙋 ")
+print("=" * 85)
+print("Silakan menambah hasil pertandingan")
+
+# Masukkan tim
+tim_1 = input("Masukkan nama tim 1: ")
+tim_2 = input("Masukkan nama tim 2: ")
+
+# Masukkan skor
+skor_tim1 = int(input("Masukkan skor tim 1: "))
+skor_tim2 = int(input("Masukkan skor tim 2: "))
+
+# Masukkan tanggal pertandingan
+tanggal = input("Masukkan tanggal pertandingan (D-M-YYYY):")
+
+# Data pertandingan
+daftar_pertandingan = []
+pertandingan = [tim_1, skor_tim1, tim_2, skor_tim2, tanggal]
+daftar_pertandingan.append(pertandingan)
+print("-" *85)
+print("Pertandingan berhasil ditambahkan: ")
+print(f"{pertandingan[4]} | {pertandingan[0]} {pertandingan[1]}-{pertandingan[3]} {pertandingan[2]}")
+if skor_tim1 > skor_tim2:
+ print(f"{pertandingan[0]} menang")
+elif skor_tim2 > skor_tim1:
+ print(f"{pertandingan[2]} menang")
+else:
+ print("Pertandingan imbang")
+print("-" *85)
