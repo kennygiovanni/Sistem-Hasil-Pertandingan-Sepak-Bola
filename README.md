@@ -23,12 +23,16 @@ baris 23-28: If yaitu Jika skor tim 1 lebih dari tim 2 maka tim 1 menang
 baris 29: Garis batas
 
 
+
 Flowchart:
 
-<img width="121" height="891" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/e3f8eab6-1643-42be-afd7-7b917112f1cf" />
-ram
 
-Penjelasan program ini:
+<img width="121" height="891" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/e3f8eab6-1643-42be-afd7-7b917112f1cf" />
+
+
+Penjelasan program:
+
+
 Tampilan awalnya seperti ini
 <img width="853" height="190" alt="Screenshot 2025-09-14 151712" src="https://github.com/user-attachments/assets/e74990b6-819b-46dd-a8ce-5158d1bcdbb6" />
 
