@@ -24,6 +24,7 @@ baris 29: Garis batas
 
 
 Flowchart:
+
 <img width="121" height="891" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/e3f8eab6-1643-42be-afd7-7b917112f1cf" />
 ram
 
