@@ -15,7 +15,7 @@ tanggal = input("Masukkan tanggal pertandingan (D-M-YYYY):")
 
 # Data pertandingan
 daftar_pertandingan = []
-pertandingan = [tim_1, skor_tim1, tim_2, skor_tim2, tanggal]
+pertandingan = (tim_1, skor_tim1, tim_2, skor_tim2, tanggal)
 daftar_pertandingan.append(pertandingan)
 print("-" *85)
 print("Pertandingan berhasil ditambahkan: ")
